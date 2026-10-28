@@ -13,7 +13,7 @@ build/
 .coverage
 htmlcov/
 
-# Node / Next.js (Root & Subdirectories)
+# Node / Next.js (Root & Subdirectories)n 
 node_modules/
 frontend/node_modules/
 .next/
